@@ -1,0 +1,30 @@
+[
+  {
+    "userId": "anirudh@2424",
+    "password": "$2b$10$VA7tA8aLo66x4ROCYfqOaewaHV1gTnuNaTPqAD6487ERyfjvkg0Py",
+    "role": "issuer",
+    "walletId": "ex889jknbkn000000in",
+    "orgName": "Org1"
+  },
+  {
+    "userId": "anirudh",
+    "password": "$2b$10$TK6eD7kbmA/N49X/sB7oVO7hU6ZawnO9FChIyI13Z8uDiZikoHlxO",
+    "role": "bidder",
+    "walletId": "0654333456789653456j",
+    "orgName": "Org2"
+  },
+  {
+    "userId": "tester1",
+    "password": "$2b$10$blYQdS8lsQpPV90Oq7.8QeOmHWrNBu6dk1/qPBKqCo6J6Ux/INenG",
+    "role": "bidder",
+    "walletId": "0x",
+    "orgName": "Org2"
+  },
+  {
+    "userId": "anirudh@",
+    "password": "$2b$10$Jks4Teh9dWbBbPaD.IJEhuX41iSHHUfEnTpN/O7WVaoMK7fM6XoRO",
+    "role": "auditor",
+    "walletId": "klkmonmpm90-",
+    "orgName": "Org1"
+  }
+]
